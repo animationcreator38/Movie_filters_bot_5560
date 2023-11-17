@@ -77,8 +77,8 @@ async def pm_text(bot, message):
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
-         text=f"<b>ʜᴇʏ {user} 😍 ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ɪᴛ ɪɴ ᴏᴜʀ <a href=https://t.me/+zWbNbzlc4EcxMjg1>ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a> ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 👇</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=f"https://t.me/+zWbNbzlc4EcxMjg1")]])
+         text=f"<b>ᴊᴀɪ ʜɪɴᴅ {user} sɪʀ 🫡 , ,\n\nᴊᴏɪɴ ᴛʜᴇ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ⚡ RᴇQᴜᴇꜱᴛ Hᴇʀᴇ ⚡ ʙᴜᴛᴛᴏɴ. ꜱᴇɴᴅ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴀɴᴅ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ᴛʜᴇ ᴍᴏᴠɪᴇ.</b>",   
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("⚡ RᴇQᴜᴇꜱᴛ Hᴇʀᴇ ⚡", url=f"https://t.me/+zWbNbzlc4EcxMjg1")]])
     )
     await bot.send_message(
         chat_id=LOG_CHANNEL,
