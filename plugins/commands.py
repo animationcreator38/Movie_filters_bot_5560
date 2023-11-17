@@ -26,7 +26,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('💥 Uᴘᴅᴀᴛᴇs', url='https://t.me/+YBYfWpzSS_wxYWU1'),
-                    InlineKeyboardButton('🎥 Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/+zWbNbzlc4EcxMjg1')
+                    InlineKeyboardButton('🤩 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url='https://t.me/+zWbNbzlc4EcxMjg1')
                 ],[
                   InlineKeyboardButton('🤑 Eᴀʀɴ Mᴏɴᴇʏ Wɪᴛʜ Bᴏᴛ 💰', callback_data="earn_money")
                   ]]
@@ -45,8 +45,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💖 Sᴜʙsᴄʀɪᴘᴛɪᴏɴ', callback_data="shortlink_info"),
-                    InlineKeyboardButton('🎥 Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/+zWbNbzlc4EcxMjg1')
+                    InlineKeyboardButton('⚡ Sᴜʙsᴄʀɪᴘᴛɪᴏɴ', callback_data="shortlink_info"),
+                    InlineKeyboardButton('🤩 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url='https://t.me/+zWbNbzlc4EcxMjg1')
                 ],[
                     InlineKeyboardButton('💥 Uᴘᴅᴀᴛᴇs', url='https://t.me/+YBYfWpzSS_wxYWU1'),
                     InlineKeyboardButton('🤖 Aʙᴏᴜᴛ', callback_data='about')
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💖 Sᴜʙsᴄʀɪᴘᴛɪᴏɴ', callback_data="shortlink_info"),
-                    InlineKeyboardButton('🎥 Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/+zWbNbzlc4EcxMjg1')
+                    InlineKeyboardButton('⚡ Sᴜʙsᴄʀɪᴘᴛɪᴏɴ', callback_data="shortlink_info"),
+                    InlineKeyboardButton('🤩 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url='https://t.me/+zWbNbzlc4EcxMjg1')
                 ],[
                     InlineKeyboardButton('💥 Uᴘᴅᴀᴛᴇs', url='https://t.me/+YBYfWpzSS_wxYWU1'),
                     InlineKeyboardButton('🤖 Aʙᴏᴜᴛ', callback_data='about')
