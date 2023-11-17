@@ -8,9 +8,8 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
- ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/cinewood_support_bot>CineWood 🤖</a>
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/cinewood_1'>CineWood 🇮🇳</a>     
- ‣ ᴄᴏɴᴛᴀᴄᴛ : @cinewood_support_bot</b>"""
+ ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/cinewood_support_bot>Movie Filters Bot 🤖</a>
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : @cinewood_support_bot</b>"""
 
     SOURCE_TXT = """
 <b>🔘 ᴀʟʟ ʟᴀᴛᴇsᴛ ᴍᴏᴠɪᴇs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜɪs ᴄʜᴀɴɴᴇʟ 🔘
@@ -164,7 +163,7 @@ Nᴀᴍᴇ - {}"""
 
     SHORTLINK_INFO = """
 
-💖"𝘾𝙞𝙣𝙚𝙒𝙤𝙤𝙙 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣"💖
+⚡ 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣 ⚡
 
 ➪  𝐒𝐢𝐥𝐯𝐞𝐫 𝐏𝐥𝐚𝐧 🖤
 
